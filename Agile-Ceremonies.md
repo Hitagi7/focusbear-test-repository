@@ -14,6 +14,10 @@ In my experience, the Daily Stand-up functions as a synchronization point where 
 
 ## Participate in a retrospective or review past notes from one.
 
+I participated in a team retrospective where we followed the standard "What went well / What didn't go well / What can we improve" format. During the session, the team highlighted that communication during the sprint had improved compared to previous iterations, particularly through the consistent use of daily stand-ups and Slack updates. 
+
+**My observations:**
+As an intern, I found the retrospective to be an invaluable ceremony because it creates a blame-free environment where the team can openly discuss what needs improvement. I learned that even experienced developers face challenges with estimation and workflow efficiency, which was reassuring. The retrospective also reinforced the importance of continuous improvement — rather than waiting for problems to escalate, the team addresses them iteratively. Moving forward, I plan to be more vocal in retrospectives and contribute suggestions based on my onboarding experience, as a fresh perspective can sometimes highlight process gaps that tenured team members may overlook.
 
 
 ## Document one change you can make to improve your team collaboration.
